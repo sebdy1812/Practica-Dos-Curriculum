@@ -1,0 +1,29 @@
+
+.sec1
+{
+    background-color: #fcd962;
+}
+aside
+{
+    float: left;
+    background-color: #e8e0f0;
+}
+.imagen
+{
+    width: 180px;
+    display: block;
+    margin: 20px auto;
+}
+.agru1
+{
+    width: 960px;
+    border: 1px solid black;
+    margin: 15px auto;
+}
+h1
+{
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
